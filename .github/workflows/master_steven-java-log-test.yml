@@ -42,4 +42,4 @@ jobs:
           slot-name: 'Production'
           package: '${{ env.PACKAGE_DIRECTORY }}'
           respect-pom-xml: true
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FAC6EAD9748F48CEBEB15B98CC7FA72A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1CA00B97B1804FBB94BDD1DF52BC90DD }}
