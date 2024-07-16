@@ -47,8 +47,6 @@
             <version>2.0.12</version>
         </dependency>
 
-        <!-- Test -->
-
     <build>
         <plugins>
             <plugin>
