@@ -3,9 +3,9 @@ package com.functions;
 import com.microsoft.azure.functions.annotation.*;
 import com.microsoft.azure.functions.*;
 import java.time.*;
-import org.slf4j.Slf4j;
+import org.slf4j;
 
-@Slf4j
+@slf4j
 /**
  * Azure Functions with Timer trigger.
  * https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer?tabs=java
