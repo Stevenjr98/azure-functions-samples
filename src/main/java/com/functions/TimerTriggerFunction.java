@@ -3,7 +3,7 @@ package com.functions;
 import com.microsoft.azure.functions.annotation.*;
 import com.microsoft.azure.functions.*;
 import java.time.*;
-import org.Slf4j;
+import Slf4j;
 
 @Slf4j
 /**
